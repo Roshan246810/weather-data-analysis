@@ -1,0 +1,1 @@
+A comprehensive Data Analysis project using Python and Pandas to explore, clean, and analyze a real-world weather dataset. This project solves 15 specific analytical questions ranging from basic filtering to advanced data aggregations.
